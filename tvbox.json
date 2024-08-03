@@ -1,12 +1,12 @@
 ﻿{
     "spider": "http://xhztv.top/xhz/Yoursmile.jar;md5;69DADB9A99A618EA9E2F4E2B92968E41",
-    "wallpaper": "https://raw.githubusercontent.com/ponybook/tvlive/ponybook-patch-1/images/bender-futurama-5120x2880-17550.jpg",
+    "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ponybook/tvlive/ponybook-patch-1/images/bender-futurama-5120x2880-17550.jpg",
     "lives": [
         {
             "name": "直播",
             "type": 0,
             "playerType": 1,
-            "url": "https://raw.githubusercontent.com/ponybook/tvlive/ponybook-patch-1/live.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ponybook/tvlive/ponybook-patch-1/live.m3u",
             "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
