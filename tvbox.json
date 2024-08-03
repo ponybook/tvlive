@@ -55,18 +55,6 @@
             "ext": "http://www.lyyytv.cn/yt/bili/bili.json"
         },
         {
-            "key": "drpy_js_310直播",
-            "name": "⚽|310直播（足球）",
-            "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/310直播.js"
-        },
-        {
             "key": "相声小品",
             "name": "😍┃相声┃小品",
             "type": 3,
